@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../service-jwt-verify-signature"
+		},
+		{
+			"path": "../service-oauth"
+		}
+	],
+	"settings": {}
+}
