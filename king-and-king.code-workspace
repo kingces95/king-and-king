@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../service-oauth"
+		},
+		{
+			"path": "../gas-web-app-library"
 		}
 	],
 	"settings": {}
